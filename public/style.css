@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    background: crimson;
+    margin: auto;
+}
+.nav_menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.nav_menu li {
+    display: flex;
+    
+    gap: 10px;
+    margin: 10px;
+}
